@@ -1,0 +1,93 @@
+#heading{
+   height: 65px;
+   padding-bottom: 10px;
+}
+#slider-image{
+   width: 100%;
+   height: 250px;
+}
+.topnav {
+   overflow: hidden;
+   background-color: #333;
+   height: 40px;
+}
+.navbar a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 10px 16px;
+   text-decoration: none;
+   font-size: 15px;
+   width:240px;
+}
+.nav.navbar-nav li a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navbar .navbar-nav > .active > a{
+    background-color: #4CAF50;
+   color: white;
+}
+modal-backdrop {
+   background-color: transparent !important;
+}
+#modal-video{
+   width: 67.5%;
+}
+#iframe-video{
+   width: 58vh;
+   height: 30vh;
+}
+#youtube-image{
+   width: 200px;
+   height: 150px;
+}
+#satimage{
+   width: 98px;
+   height: 95px;
+}
+#bing-map{
+   width: 630px;
+   height: 400px;
+}
+#tiff-map{
+   width: 630px;
+   height: 400px;
+}
+#left{
+   width:100px;
+   float:left;
+}
+#middle{
+   margin: 0 auto;
+   width: 100px;
+}
+#right{
+   width:300px;
+   float:right;
+   text-align:justify
+}
+/*Change on Dec 16*/
+#greece-img{
+  margin-top: 6%;
+    width: 100%;
+    height: 170px;
+    float: left;
+    cursor: pointer;
+}
+#sshrc{
+   margin-left:5px;
+   margin-top: 6%;
+    width: 100%;
+    height: 170px;
+    float: left;
+    cursor: pointer;
+}
+#unbf{
+   height:100px;
+   cursor: pointer;
+}
+#ministry{
+   height:100px;
+   cursor: pointer;
+}
